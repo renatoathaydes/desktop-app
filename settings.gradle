@@ -1,0 +1,6 @@
+rootProject.name = 'desktop-app'
+
+include 'desktop-app-core',
+        'desktop-app-api',
+        'test-plugin'
+
